@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning Projects](https://github.com/Mohansharma13?tab=repositories)
+- 🔭 I’m currently working on [Large Language Models](https://github.com/Mohansharma13?tab=repositories)
 
 - 🌱 I’m currently learning **TensorFlow, PyTorch**
 
